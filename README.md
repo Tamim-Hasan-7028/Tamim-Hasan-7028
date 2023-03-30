@@ -1,4 +1,4 @@
-![logo](https://github.com/Tamim-Hasan-7028/Tamim-Hasan-7028/blob/main/python-gf284d5642_1920.jpg)
+![logo](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)
 <h1 align="center">Hi 👋, I'm Saiful Hasan Tamim</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
