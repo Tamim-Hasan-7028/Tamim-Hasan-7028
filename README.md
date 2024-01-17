@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently **Undergraduate student in Statistics at Khulna University, Khulna, Bangladesh**
+- 🔭 I have completed **B.Sc (Honours) in Statistics from Khulna University, Khulna, Bangladesh**
 
 - 🌱 I’m currently learning **Python, SQL, Microsoft Power BI, Microsoft Excel**
 
