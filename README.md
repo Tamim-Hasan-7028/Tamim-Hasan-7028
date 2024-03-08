@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently playing Junior Data Analyst role at **Doer Services PLC, Mothijheel, Dhaka, Bangladesh**
+- 🌱 I’m currently playing **Junior Data Analyst** role at **Doer Services PLC** located in **Mothijheel, Dhaka, Bangladesh**
 
-- 🔭 I have completed **B.Sc (Honours) in Statistics from Khulna University, Khulna, Bangladesh**
+- 🔭 I have completed **B.Sc (Honours)** in **Statistics** from **Khulna University** located in **Khulna, Bangladesh**
 
 - 💬 Ask me about **Statistics, Data Analysis**
 
