@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently working as a **Data Analyst** at **Rokomari.com** located in **Mothijheel, Dhaka, Bangladesh**
 
+- 🟢 Former **Data Analyst** at **Doer Services PLC**
+
 - 🔭 I have completed **B.Sc (Honours)** in **Statistics** from **Khulna University** located in **Khulna, Bangladesh**
 
 - 💬 Ask me about **Statistics, Data Analysis**
